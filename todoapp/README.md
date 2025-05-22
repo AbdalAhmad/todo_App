@@ -19,10 +19,10 @@ samples, guidance on mobile development, and a full API reference.
  screen shot  that i have made - >
 1. Icon 
  <img width="362" alt="Screenshot 2025-05-22 at 4 45 30 PM" src="https://github.com/user-attachments/assets/49088d06-2f20-43e6-a5d5-2aaad17ba0a4" />
+ 2. App Features
 <br>
 <br>
 <br>
-2. App Features
 <img width="386" alt="Screenshot 2025-05-22 at 4 45 46 PM" src="https://github.com/user-attachments/assets/6771f90b-1a54-4ea4-bf16-979481857041" />
 <br>
 <br>
